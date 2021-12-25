@@ -1,0 +1,2 @@
+phrase,address,private key,chain code,public key
+alien program hero vessel buffalo museum sail noise fit win usage soul,1MJ7cJDrXW5gHWUTokTn6kF59RWR3BZHuN,6203c2768758fa7413e88050f47c85ee9f806c4aedb8791a78b8174aaccc2d52,26138a9c42cecbc3021f2153d8ab9d573ef30ebaa2eee08e86e07bb02b70250c,b0557cba1369e23aa86fe5521922cad5edac9e95781f3c4d97ffaee2493aaf38
